@@ -1,0 +1,113 @@
+judul,rating,extracted_bedroom_count,extracted_bathroom_count,harga_booking,jumlah_malam,price_per_night,cleanliness_value,accurancy_value,check_in_overall_rating_value,communication_value,values_value,bathroom_bathroom,location_Bingin,location_Canggu,location_Jimbaran,location_Nusa Dua,location_Pererenan,location_Seminyak,location_Sidemen/Kintamani,location_Ubud,location_Uluwatu,location_Ungasan,room_count,bedroom_rating_interaction
+Elegant Villa w/ Scenic Views in Jimbaran,4.7,4.0,4.0,156.0,1.0,156.0,4.6,4.7,4.8,4.7,4.6,1,0,0,1,0,0,0,0,0,0,0,8.0,18.8
+Gather & Relax Jimbaran Family Villa With Pool,4.8,5.0,5.0,160.0,1.0,160.0,4.7,4.9,4.9,5.0,4.9,1,0,0,1,0,0,0,0,0,0,0,10.0,24.0
+Group Bonding Awaits: Jimbaran Villa With Pool,4.8,10.0,10.0,298.0,1.0,298.0,5.0,5.0,4.9,5.0,5.0,1,0,0,1,0,0,0,0,0,0,0,20.0,48.0
+Jimbaran Escape with Authentic Balinese Touches,4.7,1.0,1.0,37.0,1.0,37.0,4.7,4.8,4.7,4.6,4.7,0,0,0,1,0,0,0,0,0,0,0,2.0,4.7
+Whimsical Villa by the Poolside in Jimbaran,4.6,4.0,4.0,208.0,1.0,208.0,4.6,4.6,4.8,4.6,4.6,1,0,0,1,0,0,0,0,0,0,0,8.0,18.4
+Fresh Arrival: Ultimate Family Escape in Jimbaran,4.8,3.0,3.0,283.0,1.0,283.0,4.743636363636363,4.840909090909091,4.8118181818181816,4.785454545454544,4.75050505050505,1,0,0,1,0,0,0,0,0,0,0,6.0,14.399999999999999
+Rooftop Sunset Escape for Families in Pererenan,4.7,3.0,5.0,178.0,1.0,178.0,4.7,4.8,4.8,4.8,4.8,1,0,0,0,0,1,0,0,0,0,0,8.0,14.100000000000001
+Scenic Mezzanine Villa in Pererenan’s Rice Fields,4.6,1.0,1.0,90.0,1.0,90.0,4.8,4.8,4.8,4.6,4.7,1,0,0,0,0,1,0,0,0,0,0,2.0,4.6
+Perfect Retreat for Families Near Pandawa Beach,4.8,2.0,2.0,140.0,1.0,140.0,4.9,4.7,4.8,4.0,4.75050505050505,1,0,0,0,1,0,0,0,0,0,0,4.0,9.6
+Seaside Luxury Villa in Nusa Dua w/ Private Beach,4.8,3.0,3.0,646.0,1.0,646.0,4.7,4.8,4.8,4.5,4.75050505050505,1,0,0,0,1,0,0,0,0,0,0,6.0,14.399999999999999
+Ultimate Nusa Dua Seafront Villa w/ Private Beach,4.8,3.0,4.0,475.0,1.0,475.0,4.8,4.9,4.6,4.5,4.75050505050505,1,0,0,0,1,0,0,0,0,0,0,7.0,14.399999999999999
+Tasteful Family Villa with Pool Near Pandawa Beach,4.7,2.0,2.0,79.0,1.0,79.0,4.8,4.8,4.7,4.5,4.75050505050505,1,0,0,0,1,0,0,0,0,0,0,4.0,9.4
+Explore Pandawa Beach From This Kutuh Villa,4.8,2.0,2.0,121.0,1.0,121.0,4.8,4.8,4.8,4.6,4.75050505050505,1,0,0,0,1,0,0,0,0,0,0,4.0,9.6
+Sophisticated Architectural Pool Villa in Nusa Dua,4.4,2.0,2.0,130.0,1.0,130.0,4.4,4.4,4.3,4.6,4.75050505050505,1,0,0,0,1,0,0,0,0,0,0,4.0,8.8
+Kutuh’s Quiet Verdant Room Close to Pandawa Beach,4.7,1.0,1.0,34.0,1.0,34.0,4.7,4.8,4.8,4.4,4.75050505050505,0,0,0,0,1,0,0,0,0,0,0,2.0,4.7
+Idyllic Escape in Kutuh w/ Pool Near Pandawa Beach,4.8,1.0,1.0,53.0,1.0,53.0,5.0,4.9,4.9,4.4,4.75050505050505,0,0,0,0,1,0,0,0,0,0,0,2.0,4.8
+Majestic A-Frames Kintamani Lodge for Small Groups,5.0,2.0,1.0,98.0,1.0,98.0,4.8,4.9,5.0,5.0,5.0,1,0,0,0,0,0,0,1,0,0,0,3.0,10.0
+Secluded A-Frame Stay with Mountain View Kintamani,4.6,1.0,1.0,49.0,1.0,49.0,4.6,4.7,4.5,4.8,4.5,1,0,0,0,0,0,0,1,0,0,0,2.0,4.6
+Nature’s Group Glamping with Panoramic Scenery,4.8,3.0,3.0,103.0,1.0,103.0,4.7,4.8,4.5,4.8,4.7,1,0,0,0,0,0,0,1,0,0,0,6.0,14.399999999999999
+Kintamani Dome Glamping with Scenic Mountain View,4.6,1.0,1.0,32.0,1.0,32.0,4.6,4.8,4.5,4.8,4.8,0,0,0,0,0,0,0,1,0,0,0,2.0,4.6
+Spacious Tropical 4BR Villa with Pool in Uluwatu,4.8,4.0,4.0,384.0,1.0,384.0,4.7,4.8,4.8,4.7,4.8,1,0,0,0,0,0,0,0,0,1,0,8.0,19.2
+Heritage-Style Villa for Group Near Uluwatu Temple,4.9,2.0,2.0,186.0,1.0,186.0,4.4,4.7,4.8,4.7,4.6,1,0,0,0,0,0,0,0,0,1,0,4.0,9.8
+Couple’s Intimate Villa with Pool in Uluwatu,4.7,1.0,1.0,164.0,1.0,164.0,4.7,4.8,4.8,4.8,4.7,1,0,0,0,0,0,0,0,0,1,0,2.0,4.7
+Secluded Family Boho Villa Near Nyang Nyang Beach,4.6,2.0,2.0,285.0,1.0,285.0,4.8,4.8,4.8,4.8,4.8,1,0,0,0,0,0,0,0,0,1,0,4.0,9.2
+Spacious Group Villa Near Uluwatu Surf Spots,4.8,3.0,3.0,284.0,1.0,284.0,4.6,4.8,4.9,4.8,4.7,1,0,0,0,0,0,0,0,0,1,0,6.0,14.399999999999999
+Elegant Stay in Uluwatu with Pool for Relaxation,4.9,1.0,1.0,99.0,1.0,99.0,4.7,4.8,4.8,4.8,4.8,0,0,0,0,0,0,0,0,0,1,0,2.0,4.9
+Sunset Magic at Uluwatu’s Hidden Rooftop Paradise,4.7,1.0,1.0,130.0,1.0,130.0,4.7,4.8,4.8,4.7,4.8,0,0,0,0,0,0,0,0,0,1,0,2.0,4.7
+Uluwatu’s Hidden Paradise: Rooftop Lounge & Pool,4.8,1.0,1.0,106.0,1.0,106.0,4.4,4.7,4.8,4.7,4.6,0,0,0,0,0,0,0,0,0,1,0,2.0,4.8
+Sunshine-filled Uluwatu Room with Relaxing Pool,4.8,1.0,1.0,137.0,1.0,137.0,4.7,5.0,4.5,4.6,4.6,0,0,0,0,0,0,0,0,0,1,0,2.0,4.8
+Authentic Bali Room Minutes from Uluwatu Temple,4.7,1.0,1.0,142.0,1.0,142.0,5.0,5.0,4.9,5.0,4.9,0,0,0,0,0,0,0,0,0,1,0,2.0,4.7
+Tucked-Away Retreat Near Uluwatu Temple & Beaches,4.7,2.0,1.0,149.0,1.0,149.0,4.9,4.8,4.9,4.9,4.9,1,0,0,0,0,0,0,0,0,1,0,3.0,9.4
+"Top Uluwatu Stay for Surfer, Foodies & Relaxation",4.6,1.0,1.0,108.0,1.0,108.0,4.8,4.9,5.0,4.9,4.8,0,0,0,0,0,0,0,0,0,1,0,2.0,4.6
+Sunset Escape in Uluwatu: Near Surf Spots & Cafés,4.8,1.0,1.0,60.0,1.0,60.0,4.9,4.9,5.0,4.9,4.9,0,0,0,0,0,0,0,0,0,1,0,2.0,4.8
+Uluwatu Stay Near Thomas Beach – A True Hidden Gem,4.8,1.0,1.0,120.0,1.0,120.0,4.8,4.8,4.8,4.8,4.8,0,0,0,0,0,0,0,0,0,1,0,2.0,4.8
+Best Uluwatu Escape: 5-Minute Walk to Thomas Beach,4.8,1.0,1.0,64.0,1.0,64.0,4.9,4.9,4.9,4.9,4.9,0,0,0,0,0,0,0,0,0,1,0,2.0,4.8
+"Central Uluwatu Stay Close to Beach, Cafés & Surf",4.8,1.0,1.0,84.0,1.0,84.0,4.9,4.9,4.7,4.9,4.8,0,0,0,0,0,0,0,0,0,1,0,2.0,4.8
+New Dream Retreat with Pool Near Uluwatu Temple,4.8,2.0,2.0,324.0,1.0,324.0,4.6,4.8,4.9,4.8,4.7,1,0,0,0,0,0,0,0,0,1,0,4.0,9.6
+Mint Uluwatu Island Group Living with Private Pool,4.8,2.0,2.0,238.0,1.0,238.0,4.8,5.0,5.0,4.8,5.0,1,0,0,0,0,0,0,0,0,1,0,4.0,9.6
+Sun-Kissed Sanctuary with Private Pool in Ungasan,4.9,2.0,2.0,287.0,1.0,287.0,4.8,4.9,5.0,4.9,4.8,1,0,0,0,0,0,0,0,0,0,1,4.0,9.8
+Sun-Soaked Villa with Private Pool in Ungasan,4.8,1.0,1.0,268.0,1.0,268.0,4.9,4.9,5.0,4.9,4.9,1,0,0,0,0,0,0,0,0,0,1,2.0,4.8
+Ungasan Graceful Tropical Villa with Sunlit Pool,4.8,2.0,2.0,287.0,1.0,287.0,4.8,4.8,4.8,4.8,4.8,1,0,0,0,0,0,0,0,0,0,1,4.0,9.6
+Intimate Villa Retreat Near Ungasan Hotspots,4.8,1.0,1.0,233.0,1.0,233.0,4.9,5.0,5.0,4.9,4.9,1,0,0,0,0,0,0,0,0,0,1,2.0,4.8
+Expansive Villa in Ungasan for Groups Near Beaches,4.7,5.0,5.0,256.0,2.0,128.0,4.7,4.8,4.9,4.7,4.7,1,0,0,0,0,0,0,0,0,0,1,10.0,23.5
+Expansive Villa w/ Pool & Lush Gardens in Ungasan,4.6,2.0,5.0,236.0,1.0,236.0,4.8,4.8,4.8,4.8,4.8,1,0,0,0,0,0,0,0,0,0,1,7.0,9.2
+Grand Villa Retreat w/ Pool & Garden in Ungasan,4.7,2.0,2.0,316.0,2.0,158.0,4.6,4.8,4.9,4.8,4.7,1,0,0,0,0,0,0,0,0,0,1,4.0,9.4
+Ungasan Placid Group Stay: 9 mins to Melasti Beach,4.8,3.0,5.0,378.0,2.0,189.0,4.7,4.8,4.8,4.8,4.8,1,0,0,0,0,0,0,0,0,0,1,8.0,14.399999999999999
+Serene Retreat with Stunning Pool View for Group,4.8,4.0,3.0,516.0,2.0,258.0,4.7,4.8,4.8,4.7,4.8,1,0,0,0,0,0,0,0,0,0,1,7.0,19.2
+Elegant Family Villa in Ungasan w/ Private Pool,4.7,3.0,5.0,201.0,1.0,201.0,4.4,4.7,4.8,4.7,4.6,1,0,0,0,0,0,0,0,0,0,1,8.0,14.100000000000001
+Authentic Balinese Wooden Villa w/ Pool in Ungasan,4.9,6.0,6.0,340.0,1.0,340.0,4.9,4.9,4.9,4.9,4.9,1,0,0,0,0,0,0,0,0,0,1,12.0,29.400000000000002
+Tropical Villa by Ungasan Beach with Pool,4.9,2.0,5.0,110.0,1.0,110.0,4.9,4.8,4.8,4.8,4.8,1,0,0,0,0,0,0,0,0,0,1,7.0,9.8
+Gather & Unwind: 2BR Villa with Pool Near GWK Park,4.7,2.0,5.0,135.0,1.0,135.0,4.5,4.7,4.9,4.8,4.6,1,0,0,0,0,0,0,0,0,0,1,7.0,9.4
+Relax in Ungasan Pool Villa Near Bali Attractions,4.8,2.0,2.0,519.0,2.0,259.5,4.8,5.0,4.8,4.8,4.9,1,0,0,0,0,0,0,0,0,0,1,4.0,9.6
+Voguish Villa with Private Pool Near Melasti Beach,4.7,2.0,5.0,306.0,2.0,153.0,4.7,5.0,4.5,4.6,4.6,1,0,0,0,0,0,0,0,0,0,1,7.0,9.4
+Expansive Modern Tropical Villa in Ungasan w/ Pool,4.8,4.0,4.0,917.0,2.0,458.5,5.0,5.0,4.9,5.0,4.9,1,0,0,0,0,0,0,0,0,0,1,8.0,19.2
+Exclusive Ungasan Stay with Sunrise & Ocean View,4.8,1.0,1.0,68.0,1.0,68.0,4.9,4.8,4.9,4.9,4.9,0,0,0,0,0,0,0,0,0,0,1,2.0,4.8
+Luxe Villa Near Seminyak w/ Private Saltwater Pool,4.9,3.0,3.0,189.0,1.0,189.0,4.9,5.0,4.9,4.7,4.75050505050505,1,0,0,0,0,0,1,0,0,0,0,6.0,14.700000000000001
+Refined Luxury Villa Near Seminyak w/ Sports Court,4.9,3.0,3.0,847.0,2.0,423.5,4.9,4.9,4.8,4.6,4.75050505050505,1,0,0,0,0,0,1,0,0,0,0,6.0,14.700000000000001
+Stylish Villa for Groups Near Seminyak’s Top Spots,4.9,2.0,2.0,376.0,1.0,376.0,4.8,4.9,4.8,4.9,4.75050505050505,1,0,0,0,0,0,1,0,0,0,0,4.0,9.8
+Placid Nature Haven w/ Private Pool | Central Ubud,4.5,3.0,3.0,141.0,1.0,141.0,4.0,5.0,4.3,5.0,4.3,1,0,0,0,0,0,0,0,1,0,0,6.0,13.5
+Ubud Stay With Infinity Pool & Lush Jungle View,4.9,2.0,2.0,226.0,1.0,226.0,4.0,5.0,4.3,5.0,4.3,1,0,0,0,0,0,0,0,1,0,0,4.0,9.8
+Ubud's Escape: Modern Villa w/ Jungle-View Hot Tub,4.0,2.0,2.0,206.5983486238532,1.0,169.52495412844038,4.0,5.0,4.3,5.0,4.3,1,0,0,0,0,0,0,0,1,0,0,4.0,8.0
+Ubud Jungle Oasis: Private Hot Tub for Relaxation,4.5,1.0,1.0,206.5983486238532,1.0,169.52495412844038,4.3,4.6,4.8,4.6,4.6,1,0,0,0,0,0,0,0,1,0,0,2.0,4.5
+Whispering Woods Villa: Peaceful Retreat with Pool,4.5,1.0,1.0,50.0,1.0,50.0,5.0,4.9,4.9,4.9,4.6,1,0,0,0,0,0,0,0,1,0,0,2.0,4.5
+Ubud Private Nature Retreat with Forest Views,4.8,1.0,1.0,108.0,1.0,108.0,4.9,4.9,4.8,4.8,4.8,1,0,0,0,0,0,0,0,1,0,0,2.0,4.8
+Placid Villa w/ Private Pool in Ubud Lush Embrace,4.9,2.0,2.0,168.0,1.0,168.0,4.7,4.8,4.8,4.8,4.8,1,0,0,0,0,0,0,0,1,0,0,4.0,9.8
+Private Pool Villa in Ubud's Emerald Paradise,4.8,1.0,1.0,118.0,1.0,118.0,4.8,4.8,4.7,4.8,4.7,1,0,0,0,0,0,0,0,1,0,0,2.0,4.8
+Couples Getaway in Stunning Ubud's Rice Paddy,4.9,1.0,5.0,408.0,2.0,204.0,4.9,4.9,4.8,4.8,4.8,1,0,0,0,0,0,0,0,1,0,0,6.0,4.9
+Harmonious Ubud Retreat Poolside Villa for Couples,4.9,1.0,2.0,277.0,2.0,138.5,5.0,4.9,4.9,4.9,4.9,1,0,0,0,0,0,0,0,1,0,0,3.0,4.9
+Blissful Ubud Pool Room w/ Leafy Garden Scenery,4.8,1.0,1.0,57.0,1.0,57.0,4.7,4.8,4.8,4.8,4.8,0,0,0,0,0,0,0,0,1,0,0,2.0,4.8
+Balinese Villa in Ubud Family Paradise with Pool,4.8,3.0,3.0,146.0,1.0,146.0,4.743636363636363,4.840909090909091,4.8118181818181816,4.785454545454544,4.75050505050505,1,0,0,0,0,0,0,0,1,0,0,6.0,14.399999999999999
+Authentic Ubud Poolside Stay Among Rice Fields,4.9,1.0,1.0,162.0,1.0,162.0,4.8,4.9,4.8,4.8,4.8,1,0,0,0,0,0,0,0,1,0,0,2.0,4.9
+Designer Touches Villa in Ubud with Jungle Views,5.0,4.0,4.0,289.0,2.0,144.5,5.0,5.0,5.0,4.8,5.0,1,0,0,0,0,0,0,0,1,0,0,8.0,20.0
+Clifftop Bingin 2BR Villa w/ Stunning Ocean Views,4.9,2.0,2.0,447.0,2.0,223.5,4.8,4.9,4.8,4.8,4.8,1,1,0,0,0,0,0,0,0,0,0,4.0,9.8
+Surfer Sanctuary with Pool by Dreamland Waves,4.8,2.0,5.0,479.0,2.0,239.5,4.9,4.9,4.8,4.8,4.9,1,1,0,0,0,0,0,0,0,0,0,7.0,9.6
+Private Pool Villa only Short Walk to Bingin Beach,4.8,3.0,3.0,165.0,1.0,165.0,4.9,5.0,4.8,4.9,4.8,1,1,0,0,0,0,0,0,0,0,0,6.0,14.399999999999999
+Pool Villa Steps Away from Bingin’s Best Spots,4.9,2.0,2.0,334.0,1.0,334.0,4.8,4.9,4.8,4.9,4.7,1,1,0,0,0,0,0,0,0,0,0,4.0,9.8
+Bingin Villa with Pool Ideal for Romantic Getaways,4.9,1.0,1.0,226.0,1.0,226.0,4.9,4.9,4.9,4.9,4.8,1,1,0,0,0,0,0,0,0,0,0,2.0,4.9
+Soothing Villa Near Bingin’s Beaches and Dining,4.9,2.0,2.0,718.0,2.0,359.0,4.9,4.9,4.8,4.9,4.8,1,1,0,0,0,0,0,0,0,0,0,4.0,9.8
+Wavefront Sanctuary: Bingin’s Coastal Retreat,4.6,1.0,1.0,96.0,1.0,96.0,4.7,4.7,4.8,4.8,4.8,0,1,0,0,0,0,0,0,0,0,0,2.0,4.6
+Surfer's Paradise: Coastal Bliss by Bingin Beach,4.5,1.0,1.0,68.0,1.0,68.0,4.9,4.7,4.8,4.8,4.8,0,1,0,0,0,0,0,0,0,0,0,2.0,4.5
+Bingin Surf Haven: 4-Minute Ride to Bingin Beach,5.0,1.0,1.0,176.0,1.0,176.0,4.8,4.9,4.5,4.8,4.8,1,1,0,0,0,0,0,0,0,0,0,2.0,5.0
+Surf's Retreat: 15 Minutes Walk from Bingin Beach,4.6,1.0,1.0,113.0,1.0,113.0,4.6,4.7,4.9,4.8,4.6,0,1,0,0,0,0,0,0,0,0,0,2.0,4.6
+Hidden Paradise: Pool Escape Near Bingin Beach,4.8,1.0,1.0,78.0,1.0,78.0,4.8,4.8,4.9,4.8,4.8,0,1,0,0,0,0,0,0,0,0,0,2.0,4.8
+Elevated Oceanview Stay by Bingin Beach Cliff,4.6,1.0,1.0,153.0,1.0,153.0,4.5,4.7,5.0,4.7,4.6,0,1,0,0,0,0,0,0,0,0,0,2.0,4.6
+Clifftop Infinity Pool Retreat Above Bingin Waves,4.7,1.0,1.0,172.0,1.0,172.0,4.7,4.9,5.0,4.8,4.7,0,1,0,0,0,0,0,0,0,0,0,2.0,4.7
+Bingin Cliffside Stay w/ Infinity Pool Ocean View,4.7,1.0,1.0,149.0,1.0,149.0,4.9,4.9,4.8,5.0,4.7,0,1,0,0,0,0,0,0,0,0,0,2.0,4.7
+Oceanfront Sunset Stay Perched on Bingin Clifftop,4.8,1.0,1.0,153.0,1.0,153.0,4.8,4.9,4.9,4.8,4.7,0,1,0,0,0,0,0,0,0,0,0,2.0,4.8
+Lavish Villa Near Bingin’s Shores and Savory Spot,4.7,2.0,2.0,333.0,1.0,333.0,4.7,4.9,4.7,4.9,4.7,1,1,0,0,0,0,0,0,0,0,0,4.0,9.4
+Beach Vibes Retreat Minutes from Bingin Waves,4.9,1.0,1.0,122.0,1.0,122.0,4.9,4.9,4.9,4.8,4.8,0,1,0,0,0,0,0,0,0,0,0,2.0,4.9
+Ocean Breeze Retreat Near Bingin’s Surf Scene,4.9,1.0,1.0,129.0,1.0,129.0,4.8,4.9,5.0,4.9,4.7,0,1,0,0,0,0,0,0,0,0,0,2.0,4.9
+"Relaxing Poolside Stay, Close to Bingin Beach",4.7,1.0,1.0,137.0,1.0,137.0,4.7,4.8,4.8,4.7,4.7,0,1,0,0,0,0,0,0,0,0,0,2.0,4.7
+"Vibrant stay with Pool, Steps from Bingin Beach",4.8,1.0,1.0,241.0,2.0,120.5,4.8,4.9,4.5,4.9,4.9,0,1,0,0,0,0,0,0,0,0,0,2.0,4.8
+Ultimate Surfer’s Retreat in Bingin with Pool,4.8,1.0,1.0,125.0,1.0,125.0,4.9,4.9,4.9,4.9,4.8,0,1,0,0,0,0,0,0,0,0,0,2.0,4.8
+Secluded Sunlit Villa w/ Pool | Near Bingin Beach,4.8,3.0,5.0,484.0,2.0,242.0,4.7,4.9,4.9,4.9,4.7,1,1,0,0,0,0,0,0,0,0,0,8.0,14.399999999999999
+Dreamy Haven w/ Pool | 300m from Bingin Beach,4.8,2.0,2.0,216.0,1.0,216.0,4.7,4.8,5.0,4.8,4.7,1,1,0,0,0,0,0,0,0,0,0,4.0,9.6
+Family Retreat Villa Near Bingin Beach with BBQ,5.0,3.0,5.0,203.0,1.0,203.0,4.9,4.9,5.0,4.9,4.7,1,1,0,0,0,0,0,0,0,0,0,8.0,15.0
+Canggu Poolside: Zen & Serenity Room,4.8,1.0,1.0,43.0,1.0,43.0,4.7,4.8,4.8,4.8,4.8,0,0,1,0,0,0,0,0,0,0,0,2.0,4.8
+Bright & Airy Canggu Villa With Pool & Rooftop,4.9,3.0,4.0,198.0,1.0,198.0,4.9,4.9,5.0,4.9,4.8,1,0,1,0,0,0,0,0,0,0,0,7.0,14.700000000000001
+Central Canggu Relaxing Room w/ Pool & Fast Wi-Fi,4.8,1.0,1.0,61.0,2.0,30.5,4.7,4.8,4.8,4.8,4.7,0,0,1,0,0,0,0,0,0,0,0,2.0,4.8
+Paddy Panorama: Cozy Guesthouse w/ Pool in Canggu,4.8,1.0,1.0,34.22,1.0,34.22,4.7,4.9,4.9,4.8,4.8,0,0,1,0,0,0,0,0,0,0,0,2.0,4.8
+Sunny & Laidback Villa w/ Private Pool in Canggu,4.8,3.0,3.0,159.0,1.0,159.0,4.7,4.8,4.9,4.8,4.8,1,0,1,0,0,0,0,0,0,0,0,6.0,14.399999999999999
+Serendipity in Mengwi Guesthouse: 10 Min to Canggu,4.8,1.0,1.0,36.0,1.0,36.0,4.7,4.8,4.9,4.8,4.8,0,0,1,0,0,0,0,0,0,0,0,2.0,4.8
+Enchanting Mengwi Guesthouse with Pool Oasis,4.7,1.0,1.0,38.0,1.0,38.0,4.6,4.8,4.9,4.8,4.7,0,0,1,0,0,0,0,0,0,0,0,2.0,4.7
+Cozy Backpacker Escape Near Canggu’s Vibrant Spots,4.9,1.0,1.0,73.0,2.0,36.5,4.9,5.0,4.8,4.9,4.8,0,0,1,0,0,0,0,0,0,0,0,2.0,4.9
+Canggu Wooden Villa with Pool and Rice Field Views,4.8,2.0,2.0,189.0,2.0,94.5,4.7,4.8,4.9,4.8,4.8,1,0,1,0,0,0,0,0,0,0,0,4.0,9.6
+Trendy Penthouse Near Canggu With Rooftop Pool,4.7,2.0,2.0,206.5983486238532,1.0,169.52495412844038,4.7,4.7,4.8,4.8,4.7,1,0,1,0,0,0,0,0,0,0,0,4.0,9.4
+Spacious Sunlit Canggu Villa Perfect for Families,4.4,2.0,2.0,293.0,2.0,146.5,4.9,4.6,4.7,4.2,4.2,1,0,1,0,0,0,0,0,0,0,0,4.0,8.8
+Peaceful Poolside Room: Canggu's Heart of Serenity,5.0,5.0,5.0,200.0,1.0,200.0,4.7,4.8,4.9,4.8,4.7,1,0,1,0,0,0,0,0,0,0,0,10.0,25.0
+Prime Canggu Vast Room w/ Pool & High-Speed Wi-Fi,4.6,1.0,1.0,68.0,2.0,34.0,4.7,4.7,4.8,4.9,4.8,0,0,1,0,0,0,0,0,0,0,0,2.0,4.6
+Idyllic Guesthouse in Canggu with Rice Paddy Scene,4.8,1.0,1.0,44.0,1.0,44.0,4.9,5.0,5.0,4.8,4.8,0,0,1,0,0,0,0,0,0,0,0,2.0,4.8
+Spirited Guesthouse Stay w/ Ricefield Views & Pool,4.8,1.0,1.0,49.0,1.0,49.0,4.7,4.8,4.9,4.8,4.8,0,0,1,0,0,0,0,0,0,0,0,2.0,4.8
+Digital Nomad's Dream Canggu Villa with Fast Wi-Fi,4.8,1.0,2.0,148.0,1.0,148.0,4.7,4.8,4.9,4.8,4.8,1,0,1,0,0,0,0,0,0,0,0,3.0,4.8
