@@ -33,72 +33,6 @@ def _file_exists(p):
     except Exception:
         return False
 
-
-
-    with col_right:
-        # Card container
-        st.markdown("<div class='card'>", unsafe_allow_html=True)
-
-        # Header (gradient banner)
-        st.markdown(
-            """
-            <div style="background: linear-gradient(90deg, #a18cd1, #fbc2eb);
-                        color:#fff; padding:12px 14px; border-radius:16px;">
-              <div style="font-weight:800; font-size:16px; line-height:1;">{name}</div>
-              <div style="opacity:.95; font-size:12px;">{title}</div>
-            </div>
-            """.format(name=PORTFOLIO.get("name",""), title=PORTFOLIO.get("title","")),
-            unsafe_allow_html=True
-        )
-
-        # Photo
-        if _exists(PORTFOLIO.get("photo","")):
-            st.image(PORTFOLIO["photo"], width=160)
-
-        # Contacts
-        st.caption(PORTFOLIO.get("tagline",""))
-        st.write(f"📍 {PORTFOLIO.get('location','')}")
-        if PORTFOLIO.get("linkedin"):
-            st.write(f"🔗 LinkedIn: {PORTFOLIO.get('linkedin')}")
-        st.write(f"✉️ {PORTFOLIO.get('email','')}")
-        st.write(f"📱 {PORTFOLIO.get('phone','')}")
-
-        # Skills badges (HTML inline)
-        if PORTFOLIO.get("skills"):
-            badges = " ".join([f"<span style='display:inline-block;background:#f1f5f9;border:1px solid #e2e8f0;padding:4px 8px;border-radius:999px;font-size:12px;margin:2px;'>{s}</span>" for s in PORTFOLIO["skills"]])
-            st.markdown("**Skills**", unsafe_allow_html=True)
-            st.markdown(badges, unsafe_allow_html=True)
-
-        # Resume content in expander
-        with st.expander("Resume", expanded=False):
-            if RESUME_DATA.get("summary"):
-                st.markdown("**Ringkasan**")
-                st.write(RESUME_DATA["summary"])
-            if RESUME_DATA.get("experience"):
-                st.markdown("**Experience**")
-                st.write(RESUME_DATA["experience"][:1200] + ("..." if len(RESUME_DATA["experience"])>1200 else ""))
-            if RESUME_DATA.get("education"):
-                st.markdown("**Education**")
-                st.write(RESUME_DATA["education"])
-            if RESUME_DATA.get("certifications"):
-                st.markdown("**Certifications**")
-                st.write(RESUME_DATA["certifications"])
-            if RESUME_DATA.get("projects"):
-                st.markdown("**Projects**")
-                st.write(RESUME_DATA["projects"][:800] + ("..." if len(RESUME_DATA["projects"])>800 else ""))
-            if RESUME_DATA.get("languages"):
-                st.markdown("**Languages**")
-                st.write(RESUME_DATA["languages"])
-
-        # CV button
-        cvp = PORTFOLIO.get("cv_path","")
-        if _exists(cvp):
-            with open(cvp, "rb") as f:
-                st.download_button("📥 Unduh CV", f, file_name="Sri_Supatmi_CV.pdf", mime="application/pdf", use_container_width=True)
-
-        st.markdown("</div>", unsafe_allow_html=True)
-
-
 import streamlit as st
 import pandas as pd
 import joblib
@@ -118,7 +52,7 @@ def render_profile_card():
         except: return False
 
     # Card wrapper
-    st.markdown("<div class='card'>", unsafe_allow_html=True)
+    st.markdown("<div class='card sticky'>", unsafe_allow_html=True)
 
     # Header (gradient)
     st.markdown(
@@ -179,7 +113,7 @@ def render_profile_card():
     cvp = PORTFOLIO.get("cv_path","")
     if _exists(cvp):
         with open(cvp, "rb") as f:
-            st.download_button("📥 Unduh CV", f, file_name="Sri_Supatmi_CV.pdf", mime="application/pdf", use_container_width=True)
+            st.download_button("📥 Unduh CV", f, file_name="Sri_Supatmi_CV.pdf", mime="application/pdf", use_column_width=True)
 
     st.markdown("</div>", unsafe_allow_html=True)
 
@@ -203,10 +137,12 @@ def _inject_global_ui():
         }
         .card{
            background:var(--card-bg); border:1px solid var(--card-border);
-           border-radius:18px; padding:14px; box-shadow:var(--shadow); margin:8px 0 18px; border-radius:18px;
+           border-radius:18px; padding:14px; box-shadow:var(--shadow); margin:8px 0 18px;
         }
         .caption{ color:var(--muted); font-size:.9rem; margin-top:4px;}
-        </style>
+        .sticky{position:sticky;top:16px}
+.profile-photo img{border-radius:14px}
+</style>
         """,
         unsafe_allow_html=True)
 
@@ -217,7 +153,7 @@ def card_plot(fig):
 
 def card_plotly(fig):
     st.markdown("<div class='card'>", unsafe_allow_html=True)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, use_column_width=True)
     st.markdown("</div>", unsafe_allow_html=True)
 
 _inject_global_ui = _inject_global_ui
@@ -393,7 +329,7 @@ def fig_avg_price_by_location_matplotlib():
 st.title("Prediksi Harga Vila Bukit Vista Menggunakan Model Machine Learning XGBoost")
 col_left, col_right = st.columns([0.65, 0.35], gap='large')
 with col_left:
-    st.image("bukit-vista-header-768x432.jpeg", width=720)
+    st.image("bukit-vista-header-768x432.jpeg", use_column_width=True)
     st.write("""
 ###  Tentang Proyek Ini
 **Airbnb** adalah platform global yang sejak tahun 2008 telah mempertemukan tamu dan tuan rumah dari seluruh dunia.  
@@ -425,7 +361,7 @@ with col_right:
 lokasi_list = [col for col in data.columns if col.startswith("location_")]
 
 with st.sidebar:
-    st.image("logo_bukit_vista.png", use_container_width=True)
+    st.image("logo_bukit_vista.png", use_column_width=True)
     st.markdown("## Room Category")
 
     lokasi_terpilih = st.selectbox("Pilih Lokasi", [l.replace("location_", "") for l in lokasi_list] if lokasi_list else ["-"])
@@ -467,7 +403,7 @@ if lokasi_list:
     card_plotly(fig_plotly)
 
 # Tampilkan data mentah
-with st.expander("Range Data"):
+with st.expander("Lihat Data Mentah"):
     st.dataframe(data)
 
 
